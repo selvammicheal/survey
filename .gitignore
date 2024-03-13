@@ -1,2 +1,4 @@
 api_gateway/node_modules/
 user_module/node_modules/
+user_module/dist/
+api_gateway/dist/
